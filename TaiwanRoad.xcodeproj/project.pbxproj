@@ -13,6 +13,7 @@
 		E9B6E4A12A014B3B00C1A80C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9B6E49F2A014B3B00C1A80C /* Main.storyboard */; };
 		E9B6E4A32A014B3D00C1A80C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E9B6E4A22A014B3D00C1A80C /* Assets.xcassets */; };
 		E9B6E4A62A014B3D00C1A80C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9B6E4A42A014B3D00C1A80C /* LaunchScreen.storyboard */; };
+		E9B6E4AE2A014B7300C1A80C /* Road.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9B6E4AD2A014B7300C1A80C /* Road.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E9B6E4A22A014B3D00C1A80C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E9B6E4A52A014B3D00C1A80C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E9B6E4A72A014B3D00C1A80C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E9B6E4AD2A014B7300C1A80C /* Road.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Road.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				E9B6E49D2A014B3B00C1A80C /* ViewController.swift */,
 				E9B6E49F2A014B3B00C1A80C /* Main.storyboard */,
 				E9B6E4A22A014B3D00C1A80C /* Assets.xcassets */,
+				E9B6E4AD2A014B7300C1A80C /* Road.swift */,
 				E9B6E4A42A014B3D00C1A80C /* LaunchScreen.storyboard */,
 				E9B6E4A72A014B3D00C1A80C /* Info.plist */,
 			);
@@ -141,6 +144,7 @@
 				E9B6E49E2A014B3B00C1A80C /* ViewController.swift in Sources */,
 				E9B6E49A2A014B3B00C1A80C /* AppDelegate.swift in Sources */,
 				E9B6E49C2A014B3B00C1A80C /* SceneDelegate.swift in Sources */,
+				E9B6E4AE2A014B7300C1A80C /* Road.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
